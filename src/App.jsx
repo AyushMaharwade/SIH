@@ -16,8 +16,7 @@ function App() {
       <Header></Header>
       <Poster></Poster>
       <ForUser></ForUser>
-      <Footer/>
-      
+      <Footer></Footer>
     </>
   )
 }
