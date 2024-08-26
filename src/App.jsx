@@ -6,7 +6,7 @@ import './App.css'
 import Header from './header'
 import Poster from './poster'
 import ForUser from './foruser'
-import Footer from './components/foot/footer'
+import Footer from './footer'
 
 
 function App() {
